@@ -11,4 +11,8 @@ Head over to your Chrome or whatnot and fire:
 
     http://yourdockerhost:8080/api/converter?page=http://google.com
 
+Or maybe you want to try it on my own test instance:
+
+    https://pdfnapp.azurewebsites.net/api/converter?page=http://google.com
+
 That's it.
