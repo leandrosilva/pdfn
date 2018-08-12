@@ -12,3 +12,7 @@ Head over to your Chrome or whatnot and fire:
     http://yourdockerhost:8080/api/converter?page=http://google.com
 
 That's it.
+
+## Dependecy
+
+The base docker image for this project is **azure-functions-wkhtmltopdf**, which you can find [here](https://github.com/leandrosilva/azure-functions-wkhtmltopdf).
