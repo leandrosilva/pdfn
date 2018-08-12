@@ -13,6 +13,6 @@ Head over to your Chrome or whatnot and fire:
 
 That's it.
 
-## Dependecy
+### docker image dependecy
 
 The base docker image for this project is **azure-functions-wkhtmltopdf**, which you can find [here](https://github.com/leandrosilva/azure-functions-wkhtmltopdf).
