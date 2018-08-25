@@ -2,6 +2,10 @@
 
 Node.js **Azure Functions** app to convert HTML to PDF using **wkhtmltopdf**.
 
+    docker run -p 8080:80 --name pdfn_dev leandr0silva/pdfn:0.1-dev
+
+Or build it from source:
+
     git clone https://github.com/leandrosilva/pdfn.git
     cd pdfn
     docker build -f Dockerfile -t pdfn .
